@@ -14,4 +14,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
-This is so exciting [google](www.google.com)
+This is so exciting [google](http://www.google.com)
