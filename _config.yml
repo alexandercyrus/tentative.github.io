@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : minimal-mistakes-jekyll
 locale                   : "en-US"
 title                    : "A new frontier in the galaxy"
 title_separator          : "-"
@@ -49,6 +48,9 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+# Theme
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # SEO Related
 google_site_verification :
