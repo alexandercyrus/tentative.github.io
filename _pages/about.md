@@ -10,3 +10,4 @@ redirect_from:
 
 Exmplain background
 
+$$ E= MC^2 $$
